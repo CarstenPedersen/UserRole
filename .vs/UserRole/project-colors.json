@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47f9a5eb-2161-41d9-bbcd-b6319e6b13e2": {
+      "ProjectGuid": "47f9a5eb-2161-41d9-bbcd-b6319e6b13e2",
+      "DisplayName": "UserRole",
+      "ColorIndex": 0
+    },
+    "ef3b9af7-9ad4-445a-912b-0123660e1130": {
+      "ProjectGuid": "ef3b9af7-9ad4-445a-912b-0123660e1130",
+      "DisplayName": "Application",
+      "ColorIndex": 1
+    },
+    "99b18c0b-8fbd-4cd6-8616-26c24d00d8cb": {
+      "ProjectGuid": "99b18c0b-8fbd-4cd6-8616-26c24d00d8cb",
+      "DisplayName": "Application",
+      "ColorIndex": 2
+    },
+    "16c707e5-31df-4d44-b5d9-a1671b043ca7": {
+      "ProjectGuid": "16c707e5-31df-4d44-b5d9-a1671b043ca7",
+      "DisplayName": "DB",
+      "ColorIndex": 3
+    },
+    "0c565118-2b91-404e-a578-9906adfc034a": {
+      "ProjectGuid": "0c565118-2b91-404e-a578-9906adfc034a",
+      "DisplayName": "Domain",
+      "ColorIndex": 4
+    },
+    "aa0c041e-b05a-4f3e-a75d-4da176b9fc47": {
+      "ProjectGuid": "aa0c041e-b05a-4f3e-a75d-4da176b9fc47",
+      "DisplayName": "UserRole",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
